@@ -1,0 +1,49 @@
+h1{
+    background-color: brown;
+    height: 100px;
+    width: 400px;
+    text-align: center;
+}
+
+
+.Question_A{
+    background-color: aqua;
+    height: 20px;
+    width: 200px;
+    text-align: center;
+}
+
+.option{
+    height: 100px;
+    width: 400px;
+    text-align: center;
+}
+.btn1{
+    background-color: rgb(69, 42, 165);
+    height: 100px;
+    width: 400px;
+    text-align: center;
+}
+
+.btn2{
+    background-color: rgb(165, 132, 42);
+    height: 100px;
+    width: 400px;
+    text-align: center;
+}
+
+.btn3{
+    background-color: rgb(136, 22, 22);
+    height: 100px;
+    width: 400px;
+    text-align: center;
+}
+
+.btn4{
+    background-color: rgb(112, 165, 42);
+    height: 100px;
+    width: 400px;
+    text-align: center;
+}
+
+
